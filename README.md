@@ -7,5 +7,6 @@ Sizes, shapes, colors, patterns, margins of the pieces and overall sheet can be 
 Taking into account:
 - you never perfectly position your content on paper, let alone on sheets of stickers
 - you have to take the color or pre-printed pattern of the sheet into account
+- These sticker sheets? https://www.worldlabel.com/Templates/free-blank-label-templates-online.htm
 
 I'd create it in SVG
