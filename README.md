@@ -1,4 +1,6 @@
-# GraphicalMailMergeForTheWebOnStickers (formerly LabelZ)
+# WebEraMailMerge
+
+![](https://repository-images.githubusercontent.com/6804083/c537fc80-bb5f-11eb-8353-909c799edd43)
 
 So you want to give something/somebody a custom sticker, nametag, whatever.
 Any webcontent based on the specific parameters can be used (e.g. personal driving directions)
