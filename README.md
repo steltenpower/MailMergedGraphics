@@ -1,4 +1,4 @@
-# WebEraMailMerge
+# MailMergedGraphics
 
 ![](https://repository-images.githubusercontent.com/6804083/e4d19800-c02b-11eb-84bf-84a7a07f37bd)
 
